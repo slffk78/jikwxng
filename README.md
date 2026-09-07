@@ -18,9 +18,9 @@
 
 ## ⏳ Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2024%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -38,22 +38,40 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               33 mins             █████████████░░░░░░░░░░░░   52.01 % 
+VBScript                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+Batchfile                8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+PowerShell               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 mins (14.32%)
+
+✍️ 0 lines written by AI, 473 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 17 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 03:17:03 UTC
+ Last Updated on 07/09/2026 03:15:35 UTC
 <!--END_SECTION:waka-->
 </div>
