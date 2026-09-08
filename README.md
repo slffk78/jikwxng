@@ -18,7 +18,7 @@
 
 ## ⏳ Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2024%20mins-blue?style=flat)
 
@@ -38,25 +38,25 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               33 mins             █████████████░░░░░░░░░░░░   52.01 % 
-VBScript                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-Batchfile                8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-PowerShell               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+JavaScript               41 mins             ██████████████░░░░░░░░░░░   56.88 % 
+VBScript                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Batchfile                8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+PowerShell               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (14.32%)
+⏱ AI Coding Time: 9 mins (12.82%)
 
-✍️ 0 lines written by AI, 473 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 538 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -72,6 +72,6 @@ Windows                  1 hr 4 mins         ███████████�
 ```
 
 
- Last Updated on 07/09/2026 03:15:35 UTC
+ Last Updated on 08/09/2026 03:23:12 UTC
 <!--END_SECTION:waka-->
 </div>
